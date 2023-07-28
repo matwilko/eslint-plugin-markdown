@@ -47,7 +47,9 @@
     "nyc": "^14.1.1"
   },
   "dependencies": {
-    "mdast-util-from-markdown": "^0.8.5"
+    "@cspotcode/source-map-consumer": "^0.8.0",
+    "mdast-util-from-markdown": "^0.8.5",
+    "source-map": "^0.7.4"
   },
   "peerDependencies": {
     "eslint": "^6.0.0 || ^7.0.0 || ^8.0.0"
